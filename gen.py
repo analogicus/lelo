@@ -10,8 +10,6 @@ GR0{g}: [repos](https://github.com/analogicus/{code}_gr0{g}_sky130a) [docs](http
 [![DRC](https://github.com/analogicus/{code}_gr0{g}_sky130a/actions/workflows/drc.yaml/badge.svg)](https://github.com/analogicus/{code}_gr0{g}_sky130a/actions/workflows/drc.yaml)
 [![LVS](https://github.com/analogicus/{code}_gr0{g}_sky130a/actions/workflows/lvs.yaml/badge.svg)](https://github.com/analogicus/{code}_gr0{g}_sky130a/actions/workflows/lvs.yaml)
 [![DOCS](https://github.com/analogicus/{code}_gr0{g}_sky130a/actions/workflows/docs.yaml/badge.svg)](https://github.com/analogicus/{code}_gr0{g}_sky130a/actions/workflows/docs.yaml)
-[![SIM](https://github.com/analogicus/{code}_gr0{g}_sky130a/actions/workflows/sim.yaml/badge.svg)](https://github.com/analogicus/{code}_gr0{g}_sky130a/actions/workflows/sim.yaml)
-
 """
 
 with open("README.md","w") as fo:
